@@ -878,7 +878,7 @@ export const pt_BR: TranslationMap = {
       inheritDefault: "Herdar padrão",
       inheritDefaultWithModel: "Herdar padrão ({model})",
       modelPlaceholder: "provider/model",
-      fallbacks: "Alternatives",
+      fallbacks: "Alternativas",
     },
   },
 };
